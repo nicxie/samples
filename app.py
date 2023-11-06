@@ -14,7 +14,9 @@ def hello_world():
 # username and password
 database = {'GeeksForGeeks': '123',
 			'Abdul Kalam': 'xyz', 
-			'Jony': 'abc', 'Tony': 'pqr'}
+			'Jony': 'abc', 
+	    		'Tony': 'pqr',
+	   		'Nica': 'nica'}
 
 # Make another function for login and we are 
 # making if and else condition for some
